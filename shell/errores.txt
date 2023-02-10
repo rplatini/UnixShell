@@ -1,0 +1,1 @@
+cat: no_existe: No such file or directory

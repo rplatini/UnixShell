@@ -1,0 +1,20 @@
+PARTE 1
+- execve(2) vs exec(3)
+- exec(3) cuando falla. como se comporta la shell?
+- procesos en segundo plano LISTO
+
+PARTE 2
+- significado de 2>&1 LISTO
+- exit code de la shell cuando se ejecuta un pipe. Que ocurre cuando un comando falla en un pipe
+
+PARTE 3
+- setenv(3) luego de fork LISTO
+- setenv(3) vs. exec(3) - e
+	- el comportamiento es el mismo?
+	- describir una posible implementacion para que el comportamiento sea el mismo
+
+- pseudo variables
+
+PARTE 3
+- pwd built-in vs. ejecutable LISTO
+
